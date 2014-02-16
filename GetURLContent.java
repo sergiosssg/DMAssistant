@@ -17,7 +17,7 @@ public class GetURLContent {
  
 		try {
 			// get URL content
-			url = new URL("http://www.mkyong.com");
+			url = new URL("http://http://vk.com/feed");
 			URLConnection conn = url.openConnection();
  
 			// open the stream and put it into BufferedReader
