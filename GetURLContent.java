@@ -27,7 +27,7 @@ public class GetURLContent {
 			String inputLine;
  
 			//save to this filename
-			String fileName = "/users/mkyong/test.html";
+			String fileName = "/users/ssg/test.html";
 			File file = new File(fileName);
  
 			if (!file.exists()) {
